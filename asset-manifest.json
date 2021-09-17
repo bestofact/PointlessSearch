@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PointlessSearch/static/css/main.f9bdc793.chunk.css",
+    "main.js": "/PointlessSearch/static/js/main.d3e9b38a.chunk.js",
+    "main.js.map": "/PointlessSearch/static/js/main.d3e9b38a.chunk.js.map",
+    "runtime-main.js": "/PointlessSearch/static/js/runtime-main.c2cb6661.js",
+    "runtime-main.js.map": "/PointlessSearch/static/js/runtime-main.c2cb6661.js.map",
+    "static/js/2.bd729426.chunk.js": "/PointlessSearch/static/js/2.bd729426.chunk.js",
+    "static/js/2.bd729426.chunk.js.map": "/PointlessSearch/static/js/2.bd729426.chunk.js.map",
+    "index.html": "/PointlessSearch/index.html",
+    "static/css/main.f9bdc793.chunk.css.map": "/PointlessSearch/static/css/main.f9bdc793.chunk.css.map",
+    "static/js/2.bd729426.chunk.js.LICENSE.txt": "/PointlessSearch/static/js/2.bd729426.chunk.js.LICENSE.txt",
+    "static/media/SearchIcon.e1664b78.svg": "/PointlessSearch/static/media/SearchIcon.e1664b78.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2cb6661.js",
+    "static/js/2.bd729426.chunk.js",
+    "static/css/main.f9bdc793.chunk.css",
+    "static/js/main.d3e9b38a.chunk.js"
+  ]
+}
