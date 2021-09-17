@@ -1,0 +1,32 @@
+.page-no-box
+{
+    font-size : 16px;
+    font-weight: bold;
+    border : 2px solid var(--dark);
+    background-color: transparent;
+    border-radius: 10px;
+    color : var(--dark);
+
+    margin: 2px;
+    transition : 0.5s;
+}
+
+.selected
+{
+
+    border-color: var(--light);
+    color : var(--light);
+    border-radius : 1px;
+
+    transition : 0.5s;
+}
+
+.page-no-box:hover
+{
+    border-radius : 7px;
+    
+    color : var(--light);
+    border-color : var(--light);
+
+    cursor : pointer;
+}

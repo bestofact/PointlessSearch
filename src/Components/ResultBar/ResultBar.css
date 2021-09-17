@@ -1,0 +1,41 @@
+.result-bar
+{
+    display: flex;
+    flex-direction: column;
+    max-width: 980px;
+    border-bottom: 1px solid var(--dark);
+    border-end-end-radius: 15px;
+    color : var(--dark);
+    transition: 0.5s;
+}
+.result-bar:hover
+{
+    transform : scale(1.02);
+    color : var(--light);
+}
+.name
+{
+    font-size: 24px;
+    font-weight: 600;
+
+    border-bottom: 2px solid var(--dark);
+    border-end-end-radius: 15px;
+    padding-bottom: 10px;
+    padding-left : 7px;
+
+    
+}
+.body
+{
+    padding-left : 15px;
+    font-size:20px;
+    
+}
+.email
+{
+    align-self: flex-end;
+    font-size : 18px;
+    font-weight: 300;
+
+    padding-right: 10px;
+}
